@@ -251,16 +251,6 @@ mobile=1000000001&password=password
 
 ---
 
-## 📸 Screenshots
-
-> *Add screenshots of your login page, admin dashboard, and mobile view here.*
-
-| Login | Admin Dashboard | Task Management |
-|-------|-----------------|-----------------|
-| ![Login](screenshots/login.png) | ![Admin](screenshots/admin.png) | ![Tasks](screenshots/tasks.png) |
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -281,10 +271,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+**Abouelfetouh**  
+📧 Email: abouelfetouh.97@hotmail.com 
+
 
 ---
 
